@@ -1,0 +1,28 @@
+/*
+main{
+    border: 5px solid black;
+    width: 25%;
+}
+section{
+    border: 5px dotted red ;
+    width: 50vw;
+}
+
+isma humko rem use karna chahye kyu k wo related hoga apni 
+root sa or root humko html ko tag kr kay wahn per em dena chahye or phr sab usay related hokr chalega 
+*/
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.Box{ 
+    display: flex;
+    flex-direction:reverse ;
+    border: 10px solid black;
+    width: 100px;
+    height: 100px;
+    margin-top: 100px;
+    padding: 20px 20px;
+}
