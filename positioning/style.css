@@ -1,0 +1,55 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.Container {
+    border: 2px solid red;
+    width: 520px;
+    margin: 100px auto;
+    height: 800px;
+
+}
+
+.Box {
+    border: 2px dotted black;
+    height: 70px;
+    width: 500px;
+   margin: 0 auto;
+}
+
+.Green {
+    background-color: green;
+    text-align: center;
+    font-weight: bold;
+    font-size: 50px;
+    position: sticky;
+    top: 0;
+    margin-top: 10px;
+
+
+}
+
+
+.Red {
+    background-color: red;
+    text-align: center;
+    padding-top: 100px;
+    font-weight: bold;
+    font-size: 50px;
+    height: 300px;
+    top: 100px;
+    margin-top: 10px;
+   
+}
+
+
+.Blue {
+    background-color: blue;
+    text-align: center;
+    font-weight: bold;
+    font-size: 50px;
+    margin-top: 10px;
+
+}
